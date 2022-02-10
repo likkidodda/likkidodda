@@ -15,7 +15,7 @@ hi, im likki 🕶.
   <a href="https://www.linkedin.com/in/likhithadodda/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://leetcode.com/likhithadodda//">
+  <a href="https://leetcode.com/likhithadodda/">
     <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" width="100" height="30"  />        
 </p>
 <h3 align="center">Tech Stack</h3>
