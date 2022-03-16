@@ -7,7 +7,6 @@ hi, im likki 🕶.
 @@.computer science student at SUNY Buffalo.@@
 + Mulesoft
 + AWS Cloud Practioner
-+ AWS Solutions Architect - Assosiate
 # 📖 coding, DSA, DBMS, cloud 
 ```
 ------
